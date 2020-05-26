@@ -1,4 +1,5 @@
 #include <iostream>
+//Created as part of a Codecademy course.
 
 int main() {
 
